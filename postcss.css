@@ -1,0 +1,93 @@
+
+*
+{
+	margin: 0;
+	padding: 0;
+	 box-sizing: border-box;
+
+  font-family: 'Josefin Sans', sans-serif;
+  
+}
+
+.c1
+{
+	padding-right: 13px;
+}
+body
+{
+  width: 100%;
+  height: 100vh;
+  background:linear-gradient(to right,#0099f7,#f11712);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+
+}
+
+.postbody
+{
+	top: 10%;
+	position: absolute;
+	padding-left: 500px;
+	padding-top: 10px;
+}
+
+.txtarea
+{
+	width: 300px;
+	height: 100px;
+	border-style: none;
+	border-radius: 15px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+#preimage
+{
+	border-style: none;
+	border-radius: 10px;
+
+}
+.c2
+{
+padding-left: 40px;
+}
+.c3
+{
+padding-left: 50px;
+}
+
+.post
+{
+	padding-left: 90px;
+	padding-top: 20px;
+
+}
+.post input
+{
+	padding: 14px 45px;
+	border-style: none;
+	border-radius: 20px;
+	background: linear-gradient(to right,#0f0c29,#302b63,#24243e);
+	color: white;
+
+}
+.postbody{
+	background: linear-gradient(to right,red,orange);
+	padding-left: 15px;
+	margin-left: 420px;
+	border:none;
+	border-radius: 30px;
+
+
+}
+
+.post input:hover
+{
+
+	background: blue;
+	color:white;
+}
+
+
+
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
